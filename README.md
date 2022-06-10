@@ -22,9 +22,9 @@ Kasus Harian Meninggal COVID-19 di Jawa Timur
 ![alt text](https://github.com/ayodhyaGA/COVID19-JATIM/blob/master/meninggal.png)
 
 Interpretasi:
-Terjadi dua kali lonjakan jumlah kasus pada harian sembuh dan harian positif, dengan durasi waktu yang hampir sama yaitu berturut-turut terjadi pada bulan Juli-Agustus 2021 untuk lonjakan kasus pertama dan Februari-Maret 2022 untuk lonjakan kasus kedua.
-Sedangkan pada kasus harian meninggal lonjakan yang signifikan hanya terlihat satu kali yaitu pada bulan Juli-Agusutus 2021.
-Penanganan pemerintah dalam menurunkan tingkat mortalitas sudah lebih sigap salah satu upaya tersebut adalah Penguatan Sistem Kesehatan dalam Pengendalian COVID-19, sehingga dapat menurukan tingkat kematian pada lonjakan kasus kedua.
+- Terjadi dua kali lonjakan jumlah kasus pada harian sembuh dan harian positif, dengan durasi waktu yang hampir sama yaitu berturut-turut terjadi pada bulan Juli-Agustus 2021 untuk lonjakan kasus pertama dan Februari-Maret 2022 untuk lonjakan kasus kedua.
+- Sedangkan pada kasus harian meninggal lonjakan yang signifikan hanya terlihat satu kali yaitu pada bulan Juli-Agusutus 2021.
+- Penanganan pemerintah dalam menurunkan tingkat mortalitas sudah lebih sigap salah satu upaya tersebut adalah Penguatan Sistem Kesehatan dalam Pengendalian COVID-19, sehingga dapat menurukan tingkat kematian pada lonjakan kasus kedua.
 
 # Bagaimana perkembangan kasus Covid-19 dalam rentang waktu pekanan
 Untuk melihat perkembangan kasus tiap pekannya, yang akan dilakukan adalah membuat dataframe baru agar lebih mudah dalam membuat visualisasi data covid-19 tiap pekan. Dikarenakan kolom yang tersedia terbatas maka dari itu perlu beberapa tahapan yang perlukan untuk mengolah data.
@@ -32,7 +32,7 @@ Untuk melihat perkembangan kasus tiap pekannya, yang akan dilakukan adalah membu
 2. Membuat kolom baru berupa tahunnya saja.
 3. Membuat kolom berupa urutan pekan pertahunnya.
 4. Menambahkan 2 kolom untuk membandingkan per pekan dengan pekan kedepannya apakah total kasus semakin baik atau buruk.
-5. 
+
 Kasus Pekanan Positif COVID-19 di Jawa Timur
 ![alt text](https://github.com/ayodhyaGA/COVID19-JATIM/blob/master/tiap%20pekan.png)
 
@@ -43,9 +43,9 @@ Tren Kasus COVID-19 di Jawa Timur
 ![alt text](https://github.com/ayodhyaGA/COVID19-JATIM/blob/master/akumulasi.png)
 
 Kesimpulan:
-Grafik Tren Kasus COVID-19 di Jawa Timur menggambarkan lebih tinggi akumulasi pada kasus sembuh dan dengan seiring waktu semakin meningkat.
-Akumulasi untuk kasus meninggal tidak terdapat pelonjakan yang signifikan dengan rentang masih di bawah 50000 kasus, namum masih terdapat sedikit peningkatan mulai dari bulan Juli 2021.
-Hampir sama seperti akumulasi meninggal, untuk akumulasi positif sedikit terjadi pelonjakan yang terjadi sekitar bulan Juli-Agustus 2021 dan kembali terjadi di bulan Februasi 2022.
+- Grafik Tren Kasus COVID-19 di Jawa Timur menggambarkan lebih tinggi akumulasi pada kasus sembuh dan dengan seiring waktu semakin meningkat.
+- Akumulasi untuk kasus meninggal tidak terdapat pelonjakan yang signifikan dengan rentang masih di bawah 50000 kasus, namum masih terdapat sedikit peningkatan mulai dari bulan Juli 2021.
+- Hampir sama seperti akumulasi meninggal, untuk akumulasi positif sedikit terjadi pelonjakan yang terjadi sekitar bulan Juli-Agustus 2021 dan kembali terjadi di bulan Februasi 2022.
 
 Referensi:
 https://www.unicef.org/indonesia/id/coronavirus
